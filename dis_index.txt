@@ -1,0 +1,194 @@
+Pituitary deficiency	0
+Female infertility	1
+Genetic infertility	2
+Renal carcinoma	3
+Psychiatric disorder	4
+Malaria	5
+Congenital hypogonadotropic hypogonadism	6
+Neuroepithelial neoplasm	7
+Psoriatic arthritis	8
+Epithelial ovarian carcinoma	9
+Brain neoplasm	10
+Esophageal squamous cell cancer	11
+Uterine cervical neoplasm	12
+Chromosomal anomaly	13
+Pneumonia	14
+Male reproductive system disease	15
+Adenocarcinoma	16
+Stomach cancer	17
+Nutritional disorder	18
+Esophageal cancer	19
+Hypogonadism	20
+Rare endocrine growth disease	21
+Disease by anatomical system	22
+Melanoma	23
+Complex neurodevelopmental disorder	24
+Pediatric neuroblastoma	25
+Nervous system neoplasm	26
+Esophageal squamous cell carcinoma	27
+Hepatocellular carcinoma	28
+Nutritional or metabolic disease	29
+Myasthenia gravis	30
+Heart failure	31
+Ovarian carcinoma	32
+Esophagus adenocarcinoma	33
+Rare genetic male infertility	34
+Retinoblastoma	35
+Developmental defect during embryogenesis	36
+Female reproductive system disease	37
+Osteosarcoma	38
+Female infertility due to hypothalamic-pituitary-gonadal axis disorder	39
+Papillary thyroid carcinoma	40
+Rare hypothalamic or pituitary disease	41
+Early hepatocellular carcinoma	42
+Developmental disorder of mental health	43
+B-cell lymphoma	44
+Rare male infertility due to hypothalamic-pituitary-gonadal axis disorder of genetic origin	45
+Pancreatic adenocarcinoma	46
+Cholangiocarcinoma	47
+Genetic multiple congenital anomalies/dysmorphic syndrome-variable intellectual disability syndrome	48
+Alzheimer disease	49
+Lymphosarcoma	50
+Genetic overgrowth/obesity syndrome	51
+Nk/T cell lymphoma	52
+Dysregulated immunity	53
+Obesity	54
+Syndromic disease	55
+Lung cancer	56
+Nonalcoholic fatty liver disease	57
+Diffuse large B cell lymphoma	58
+Liposarcoma	59
+Mental or behavioural disorder	60
+Breast neoplasms	61
+Pre-eclampsia	62
+Low grade dysplastic nodule	63
+Tuberculosis	64
+Disease by subcellular system affected	65
+Chronic obstructive pulmonary disease	66
+Central nervous system disease	67
+Anomaly of puberty or/and menstrual cycle of genetic origin	68
+Rare genetic endocrine disease	69
+Thyroid cancer	70
+Hypogonadotropic hypogonadism	71
+Overnutrition	72
+Liver fibrosis	73
+Gastric carcinoma	74
+Lung carcinoma	75
+Genetic multiple congenital anomalies/dysmorphic syndrome	76
+Cardiovascular disease	77
+Hemangioma	78
+Cerebral cavernous malformations	79
+Hypopharyngeal cancer	80
+Gallbladder cancer	81
+Rheumatoid arthritis	82
+Neoplastic disease or syndrome	83
+Herpes simplex keratitis	84
+Pancreatic cancer	85
+West nile virus infection	86
+Gastric cancer	87
+Breast cancer	88
+T-cell acute lymphoblastic leukemia	89
+Epithelial ovarian cancer	90
+Disease of genitourinary system	91
+Brain disease	92
+Nervous system disease	93
+Endocrine system disease	94
+Osteoarthritis	95
+Colon and rectal adenocarcinoma	96
+Atherosclerosis	97
+Lymphoma	98
+Reproductive system disease	99
+Skeletal fracture	100
+Cardiac hypertrophy	101
+Neuroblastoma	102
+Renal cell carcinoma	103
+Rare genetic hypothalamic or pituitary disease	104
+Lung adenocarcinoma	105
+Prostate cancer	106
+Rare genetic developmental defect during embryogenesis	107
+Ischemia	108
+Head and neck squamous cell carcinoma	109
+Tongue squamous cell carcinoma	110
+Laryngeal squamous cell carcinoma	111
+Inherited genetic disease	112
+Gonadal disease	113
+Laryngeal cancer	114
+Non-acquired pituitary hormone deficiency	115
+Disorder of development or morphogenesis	116
+Multiple myeloma	117
+Liver cancer	118
+Colon cancer	119
+Genetic endocrine growth disease	120
+Pancreatic ductal adenocarcinoma	121
+Rare inborn errors of metabolism	122
+Colorectal adenocarcinoma	123
+Acute myeloid leukemia	124
+Nasopharyngeal carcinoma	125
+Metabolic disease	126
+Rare female infertility due to hypothalamic-pituitary-gonadal axis disorder of genetic origin	127
+Nasopharyngeal cancer	128
+Epstein-barr virus infections	129
+Primary breast cancer	130
+Colorectal carcinoma	131
+Chronic myeloid leukemia	132
+Multiple congenital anomalies/dysmorphic syndrome	133
+Ovarian cancer	134
+Urinary bladder cancer	135
+Rare disorder with female infertility due to a congenital hypogonadotropic hypogonadism	136
+Primary ovarian insufficiency	137
+Meningioma	138
+Rare genetic neurological disorder	139
+Liver cirrhosis	140
+Papillary thyroid cancer	141
+Teratozoospermia	142
+Disease by cellular process disrupted	143
+Oral squamous cell carcinoma	144
+Glioma	145
+Infertility	146
+Anomaly of puberty or/and menstrual cycle	147
+Rare gynecologic or obstetric disease	148
+Rare female infertility due to a congenital hypogonadotropic hypogonadism	149
+Non small cell lung cancer	150
+Bladder cancer	151
+Neoplasm	152
+Genetic disorder	153
+Rare disorder with hypogonadotropic hypogonadism	154
+Syndromic intellectual disability	155
+Muscle-invasive bladder cancer	156
+Cell proliferation disorder	157
+Clear cell renal cell carcinoma	158
+Syndromic obesity	159
+Renal cell cancer	160
+High grade dysplastic nodule	161
+Congenital abnormality	162
+Male infertility	163
+Genetic obesity	164
+Parkinson disease	165
+Glioblastoma	166
+Wilms tumor	167
+Triple negative breast cancer	168
+Ovarian clear cell carcinoma	169
+Rare male infertility due to hypothalamic-pituitary-gonadal axis disorder	170
+Rare genetic gynecological and obstetrical diseases	171
+Prader-willi syndrome	172
+Acute promyelocytic leukemia	173
+Mouth neoplasms	174
+Rare neurologic disease with psychiatric involvement	175
+Malignant glioma	176
+Rare genetic female infertility	177
+Lung small cell carcinoma	178
+Congenital nervous system disorder	179
+Cervical cancer	180
+Non small cell lung carcinoma	181
+Cancer	182
+Lung squamous cell carcinoma	183
+Amme syndrome	184
+Uveal melanoma	185
+Uterine leiomyoma	186
+Colon carcinoma	187
+Leukemia lymphoblastic acute	188
+Central nervous system neoplasm	189
+Prostatic neoplasms	190
+Colorectal cancer	191
+Hepatic carcinoma	192
+Prostate carcinoma	193
